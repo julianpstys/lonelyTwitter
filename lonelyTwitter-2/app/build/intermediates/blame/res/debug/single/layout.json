@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/julianstys/Desktop/lonelyTwitter/app/build/intermediates/res/merged/debug/layout/main.xml",
+        "source": "/Users/julianstys/Desktop/lonelyTwitter/app/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/Users/julianstys/Desktop/lonelyTwitter-2/app/build/intermediates/res/merged/debug/layout/main.xml",
+        "source": "/Users/julianstys/Desktop/lonelyTwitter-2/app/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/Users/julianstys/Desktop/lonelyTwitter/app/build/intermediates/res/merged/debug/layout/list_item.xml",
+        "source": "/Users/julianstys/Desktop/lonelyTwitter/app/src/main/res/layout/list_item.xml"
+    },
+    {
+        "merged": "/Users/julianstys/Desktop/lonelyTwitter-2/app/build/intermediates/res/merged/debug/layout/list_item.xml",
+        "source": "/Users/julianstys/Desktop/lonelyTwitter-2/app/src/main/res/layout/list_item.xml"
+    }
+]
